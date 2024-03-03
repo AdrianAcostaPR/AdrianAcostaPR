@@ -21,7 +21,7 @@
   },
   others: ['Spring Framework', 'Spring Boot', 'Velocity', 'Thyme Leaf'],
   learning: ['Web Design', 'Webflow', Framer', ...others],
-};```
+};
 <!---
 AdrianAcostaPR/AdrianAcostaPR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
