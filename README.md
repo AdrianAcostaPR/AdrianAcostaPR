@@ -3,7 +3,8 @@
 - 🌱 I’m continuosly learning Java as a main programming language and all the techstack surounding Java.
 - 💞️ I'd love to collaborate on Open Source Projects to expand my Java knowledge.
 - 📫 Send me an email adrianacostaaponte@gmail.com.
-  ```const adrian = {
+  ```
+  const adrian = {
   location: 'Isabela',
   role: 'Software Engineer',
   tools: ['IntelliJ', 'AWS', 'Docker', 'Figma'],
@@ -21,7 +22,7 @@
   },
   others: ['Spring Framework', 'Spring Boot', 'Velocity', 'Thyme Leaf'],
   learning: ['Web Design', 'Webflow', Framer', ...others],
-};
+  };
 <!---
 AdrianAcostaPR/AdrianAcostaPR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
