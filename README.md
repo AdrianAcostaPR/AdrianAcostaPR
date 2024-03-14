@@ -1,11 +1,11 @@
 ```
-  const adrian = {
+const adrian = {
   location: 'Isabela',
   role: 'Software Engineer',
   tools: ['IntelliJ', 'AWS', 'Docker', 'Figma'],
   technologies: {
     Java: true,
-    : true,
+    JavaFX: true,
     frontend: {
       JavaScript: 'JQuery',
       tools: ['Tailwind', 'Bootstrap'],
