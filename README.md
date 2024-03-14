@@ -1,3 +1,4 @@
+Welcome, I'm Adrian. 👋🏻 😃
 ```
 const adrian = {
   location: 'Isabela',
