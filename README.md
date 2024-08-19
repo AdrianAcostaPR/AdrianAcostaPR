@@ -1,5 +1,5 @@
 Welcome, I'm Adrian. 👋🏻 😃
-`
+```
 const adrian = {
   location: 'Isabela',
   role: 'Software Engineer',
@@ -19,4 +19,4 @@ const adrian = {
   others: ['Spring Framework', 'Spring Boot', 'Velocity', 'Thyme Leaf'],
   learning: ['Web Design', 'Webflow', 'Framer', others],
 };
-`
+```
