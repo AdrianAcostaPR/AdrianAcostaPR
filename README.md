@@ -14,7 +14,7 @@ const adrian = {
     backend: {
       Java: ['AWS'],
     },
-    databases: ['DynamoDB'],
+    databases: ['DynamoDB', PostgreSQL],
   },
   others: ['Spring Framework', 'Spring Boot', 'Velocity', 'Thyme Leaf'],
   learning: ['Web Design', 'Webflow', 'Framer', others]
