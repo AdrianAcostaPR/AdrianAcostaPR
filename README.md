@@ -8,7 +8,7 @@ const adrian = {
     Java: true,
     JavaFX: true,
     frontend: {
-      JavaScript: 'JQuery',
+      JavaScript: ['JQuery', 'Vue.js']
       tools: ['Tailwind', 'Bootstrap'],
     },
     backend: {
@@ -17,6 +17,6 @@ const adrian = {
     databases: ['DynamoDB', PostgreSQL],
   },
   others: ['Spring Framework', 'Spring Boot', 'Velocity', 'Thyme Leaf'],
-  learning: ['Web Design', 'Webflow', 'Framer', others],
-};
+  learning: ['Web Design', 'Vue.js', others],
+}
 ```
