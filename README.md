@@ -16,7 +16,7 @@ const adrian = {
     },
     databases: ['DynamoDB', PostgreSQL],
   },
-  others: ['Spring Framework', 'Spring Boot', 'Velocity', 'Thyme Leaf'],
+  others: ['Spring Framework', 'Spring Boot', 'Velocity', 'Thymeleaf'],
   learning: ['Web Design', 'Vue.js', others],
 }
 ```
